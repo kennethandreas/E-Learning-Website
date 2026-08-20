@@ -1,0 +1,20 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer Red Circle -->
+  <circle cx="100" cy="100" r="95" fill="#DC143C"/>
+  
+  <!-- Inner Blue Circle -->
+  <circle cx="100" cy="90" r="70" fill="#0066CC"/>
+  
+  <!-- Torch Base -->
+  <rect x="85" y="55" width="30" height="18" fill="#FFFACD"/>
+  <rect x="80" y="70" width="40" height="10" fill="#FFF8DC"/>
+  
+  <!-- Torch Flame -->
+  <polygon points="100,45 95,55 100,52 105,55" fill="#FFD700"/>
+  
+  <!-- Left Hand -->
+  <ellipse cx="55" cy="85" rx="18" ry="25" fill="#FFD700"/>
+  
+  <!-- Right Hand -->
+  <ellipse cx="145" cy="85" rx="18" ry="25" fill="#FFD700"/>
+</svg>
