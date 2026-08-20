@@ -104,6 +104,3 @@ routes/web.php           seluruh routing per peran
 php artisan test
 ```
 
-## Lisensi
-
-Belum ada file `LICENSE` di repository ini. Tambahkan lisensi (mis. MIT) bila proyek ini ingin dipakai secara bebas oleh orang lain, atau nyatakan eksplisit sebagai proyek akademik bila tidak untuk dipakai ulang.
